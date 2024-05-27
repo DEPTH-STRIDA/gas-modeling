@@ -28,3 +28,12 @@ Clone the repository from GitHub:
 ```sh
 git clone https://github.com/username/project-repo.git
 cd project-repo
+
+
+##Set Up Virtual Environment
+It is recommended to use a virtual environment to manage dependencies:
+*
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+*
