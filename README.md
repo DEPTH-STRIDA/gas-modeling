@@ -10,6 +10,8 @@
 This project simulates turbulent gas flow around various obstacles (rectangular and circular) using the Navier-Stokes equations. The program features a Tkinter-based graphical user interface for configuring simulation parameters and visualizing results in both 2D and 3D formats.
 
 ## Пример/ Example
+![2025-01-23_05-03-03](https://github.com/user-attachments/assets/94c40b0a-19c1-4d21-a86e-d7368b41bd7f)
+![2025-01-23_05-03-30](https://github.com/user-attachments/assets/f73d3878-f5ff-45e0-810e-a36f22e846c6)
 
 ## Основные возможности | Features
 
